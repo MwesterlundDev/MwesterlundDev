@@ -10,6 +10,10 @@ My most recent public work is the open-source framework from **Perforated AI**, 
 
 - [**PerforatedAI/PerforatedAI**](https://github.com/PerforatedAI/PerforatedAI): open-source Perforated Backpropagation framework for improving PyTorch models
 
+## Currently learning
+
+- [**MwesterlundDev/bumperbot_ws**](https://github.com/MwesterlundDev/bumperbot_ws): my workspace for the Bumperbot course, building a differential-drive mobile robot with ROS2
+
 ## Selected work
 
 - **MCP server and agent tooling:** custom MCP server and tools in Python using FastAPI and FastMCP, deployed with Docker, plus custom agent skills for the Perforated framework
